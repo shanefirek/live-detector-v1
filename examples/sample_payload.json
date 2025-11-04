@@ -1,0 +1,4 @@
+{
+  "url": "https://example.com",
+  "html": "<html><head><script src='https://app.servicetitan.com/...'>...</script></head><body>Example content</body></html>"
+}
